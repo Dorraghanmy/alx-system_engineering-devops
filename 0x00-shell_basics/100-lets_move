@@ -1,2 +1,2 @@
-#!/bin/bash
-mv ls | grep "^[A-Z]" /tmp/u
+#!/bin/bashv
+mv src/*[A-Z]* /tmp/u
